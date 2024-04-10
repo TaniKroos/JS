@@ -4,7 +4,6 @@
   "description": "First Project using node and js",
   "main": "index.js",
   "scripts": {
-    
     "start": "node main.js",
     "test": "jest"
   },
@@ -12,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
   }
 }
