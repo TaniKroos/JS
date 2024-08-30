@@ -1,2 +1,0 @@
-Hello Jude Bellingham 
-Promise -> You have to give first argument as a function -> Function should have first argument a resolver
